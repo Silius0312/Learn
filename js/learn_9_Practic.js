@@ -1,3 +1,5 @@
+/* Практика */
+
 // const quest = prompt('Сколько фильмов вы уже поспотрели?', '');
 
 // const numberOfFilms = quest;
