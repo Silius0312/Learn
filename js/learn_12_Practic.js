@@ -12,7 +12,7 @@ str.length - и получить её длину)
 
 "use strict";
 
-const numberOfFilms = +prompt("Сколько фильмов вы уже поспотрели?", "");
+const numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?", "");
 
 const personalMovieDB = {
   count: numberOfFilms,

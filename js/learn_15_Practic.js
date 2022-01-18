@@ -15,7 +15,7 @@ function start() {
   numberOfFilms = +prompt("Сколько фильмов вы уже поспотрели?", "");
 
   while (numberOfFilms == "" || numberOfFilms == null || isNaN(numberOfFilms)) {
-    numberOfFilms = +prompt("Сколько фильмов вы уже поспотрели?", "");
+    numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?", "");
   }
 }
 
